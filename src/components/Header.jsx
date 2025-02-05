@@ -26,7 +26,7 @@ function Header() {
   return (
     <div className={styles.wrapper} id="wrapper" ref={headerRef}>
       <div className={styles.emoji_logo}>🍿</div>
-      <Link className={styles.logo} to="/">
+      <Link className={styles.logo} to="/Moodie4anime">
         Mo0die
       </Link>
       <div className={styles.icon}>
