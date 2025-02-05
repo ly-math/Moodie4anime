@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.container .copyright {
+  display: flex;
+  gap: 5px;
+}
+
+.container .jikan_api {
+  opacity: 0.2;
+}
+
+.container a {
+  color: var(--color-primarily);
+  text-decoration: underline;
+}
